@@ -17,7 +17,7 @@ void main() {
     int cnt = 0;
     for (int i = 0; i < strlen(s); i++) {
         if (s[i] == ' ') cnt++;
-    }
+    }роророро
 
     printf("\nВ ней %d пробелов\n", cnt);
 
