@@ -6,7 +6,7 @@
 void main() {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
-
+    //rhugnifimedol
     // ввод строки
     char s[80];
     printf("¬ведите строку:");
